@@ -1,0 +1,17 @@
+.body_backgorund 
+{
+    background-image:url(hOye.gif);
+    background-position:center;
+    background-size:cover;
+    background-repeat: no-repeat; 
+    background-size: cover; 
+    position: relative;
+    height: 900px;
+}
+#myCanvas
+{
+border: 10px darkblue solid;
+}
+button{
+    background-color: red;
+}
